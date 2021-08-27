@@ -1,4 +1,3 @@
-/ Importing Thought and User models
 const { Thought, User } = require('../models');
 
 const thoughtController = {
@@ -39,10 +38,10 @@ const thoughtController = {
     // create thought
     createThought({ params, body}, res) {
         Thought.create(body)
-            .then(({ _id }) => {
+            .then((dbThoughtData) => {
                 return User.findOneAndUpdate(
                     { _id: params.userId },
-                    { $push: { thoughts: _id }},
+                    { $push: { thoughts: dbThoughtData.User_id }},
                     { new: true, runValidators: true }
                 );
             })
@@ -103,7 +102,7 @@ const thoughtController = {
         Thought.findOneAndDelete({ _id: params.id })
             .then(dbThoughtData => {
                 if (!dbThoughtData) {
-                    res.status(404).json({ message: 'No thought with this ID!'  });
+                    res.status(404).json({ message: 'No thought with this ID!'});
                     return;
                 }
                 res.json(dbThoughtData);
@@ -120,7 +119,7 @@ const thoughtController = {
         )
         .then(dbThoughtData => {
             if (!dbThoughtData) {
-                res.status(404).json({ message: 'No thought with this ID!'  });
+                res.status(404).json({ message: 'No thought with this ID!'});
                 return;
             }
             res.json(dbThoughtData);

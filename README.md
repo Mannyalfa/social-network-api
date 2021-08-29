@@ -51,7 +51,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Repository URL
-https://github.com/Mannyalfa/
+https://github.com/Mannyalfa/social-network-api
 
 ## Installation
 

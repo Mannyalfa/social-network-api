@@ -47,7 +47,7 @@ WHEN I test API POST and DELETE routes in Insomnia Core
 
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
-## Languages/Technologies
+## Languages-Technologies
 
 Node.js, Express.js, mongodb, mongoose, insomnia
 
@@ -80,7 +80,7 @@ Dependencies
 Server.js file showing express, mongoose and port
 ![screenshot](https://github.com/Mannyalfa/social-network-api/blob/main/assets/images/server-js-exp-mongo.jpg)
 
-## Demo/Walkthrough
+## Demo-Walkthrough
 Technical Acceptance and Installation:
 https://drive.google.com/file/d/1uCCrHE0N4Gj0tNu2fydzPAru6QjC-EOB/view?usp=sharing
 

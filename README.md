@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Description](#description)
 
-2. [Languages/Applications](#languages-applications)
+2. [Languages/Technologies](#languages-technologies)
 
 3. [License](#license)
 
@@ -13,7 +13,7 @@
 
 6. [Images](#Images)
 
-7. [Test-Demo](#test-demo)
+7. [Demo/Walkthrough](#demo/walkthrough)
 
 8. [Credits](#credits)
 
@@ -47,6 +47,11 @@ WHEN I test API POST and DELETE routes in Insomnia Core
 
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
+## Languages/Technologies
+
+Node.js, Express.js, mongodb, mongoose
+
+
 ## License
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -57,7 +62,7 @@ https://github.com/Mannyalfa/social-network-api
 
 (MongoDB should be installed prior to file installation)
 
-Clone files
+Clone Repository
 
 Run the following commands in the CLI:
 
@@ -81,7 +86,7 @@ Starting the server:
 Ready to test routes
 ![screenshot]()
 
-## Test-Demo
+## Demo/Walkthrough
 Installation:
 
 

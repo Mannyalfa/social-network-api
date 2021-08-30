@@ -85,20 +85,20 @@ Technical Acceptance and Installation:
 https://drive.google.com/file/d/1uCCrHE0N4Gj0tNu2fydzPAru6QjC-EOB/view?usp=sharing
 
 GET routes to return all users, GET user by ID, update (PUT) user and delete (DEL) users tested in Insomnia Core:
+https://drive.google.com/file/d/19VG3rD-KEeo3F_UjYq_PFeF45jNiDjzm/view?usp=sharing
 
 
 
 GET routes to return all thoughts, GET thoughts by ID, update (PUT) and delete (DEL) thoughts tested in Insomnia Core:
-
+https://drive.google.com/file/d/1ponoPXXAUYrWH0OWBulbMkwdEK03OcWW/view?usp=sharing
 
 
 Add (POST) and delete (DEL) reaction tested in Insomnia Core:
-
+https://drive.google.com/file/d/1t7YKazylsz7fq7z7GqGVWmnrtyQiWrb7/view?usp=sharing
 
 
 Add (PUT) and delete (DEL) friends from existing users tested in Insomnia Core:
-
-
+https://drive.google.com/file/d/1scvvtZRygsIWmCnPa2cLrUIizOIpoNAV/view?usp=sharing
     
 
 ## Credits

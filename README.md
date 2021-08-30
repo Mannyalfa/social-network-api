@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Description](#description)
 
-2. [Languages/Technologies](#languages-technologies)
+2. [Languages-Technologies](#languages-technologies)
 
 3. [License](#license)
 
@@ -13,7 +13,7 @@
 
 6. [Images](#Images)
 
-7. [Demo/Walkthrough](#demo-walkthrough)
+7. [Demo-Walkthrough](#demo-walkthrough)
 
 8. [Credits](#credits)
 

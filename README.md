@@ -75,19 +75,13 @@ npm start
 
 ## Images
 Dependencies
-![screenshot]()
+![screenshot](https://github.com/Mannyalfa/social-network-api/blob/main/assets/images/package-json-dep.jpg)
 
-Routes:
-![screenshot]()
-
-Starting the server:
-![screenshot]()
-
-Ready to test routes
-![screenshot]()
+Server.js file showing express, mongoose and port
+![screenshot](https://github.com/Mannyalfa/social-network-api/blob/main/assets/images/server-js-exp-mongo.jpg)
 
 ## Demo/Walkthrough
-Installation:
+Technical Acceptance and Installation:
 
 
 

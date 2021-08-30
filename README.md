@@ -13,7 +13,7 @@
 
 6. [Images](#Images)
 
-7. [Demo/Walkthrough](#demo/walkthrough)
+7. [Demo/Walkthrough](#demo-walkthrough)
 
 8. [Credits](#credits)
 
